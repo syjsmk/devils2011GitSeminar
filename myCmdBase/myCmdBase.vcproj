@@ -182,6 +182,10 @@
 				RelativePath=".\stdafx.cpp"
 				>
 			</File>
+			<File
+				RelativePath=".\syjsmkGit.cpp"
+				>
+			</File>
 		</Filter>
 		<Filter
 			Name="Header Files"
@@ -194,6 +198,10 @@
 			</File>
 			<File
 				RelativePath=".\stdafx.h"
+				>
+			</File>
+			<File
+				RelativePath=".\syjsmkGit.h"
 				>
 			</File>
 			<File
